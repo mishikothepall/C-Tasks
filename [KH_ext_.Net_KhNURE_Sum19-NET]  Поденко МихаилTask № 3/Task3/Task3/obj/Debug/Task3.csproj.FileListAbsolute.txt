@@ -1,0 +1,14 @@
+C:\Users\Миша\source\repos\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Миша\source\repos\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\Миша\source\repos\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\Миша\source\repos\Task3\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\Миша\source\repos\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Миша\source\repos\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\Миша\source\repos\Task3\Task3\obj\Debug\Task3.pdb
+C:\Users\Миша\Desktop\Tasks\Net\[KH_ext_.Net_KhNURE_Sum19-NET]  Поденко МихаилTask № 3\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Миша\Desktop\Tasks\Net\[KH_ext_.Net_KhNURE_Sum19-NET]  Поденко МихаилTask № 3\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\Миша\Desktop\Tasks\Net\[KH_ext_.Net_KhNURE_Sum19-NET]  Поденко МихаилTask № 3\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\Миша\Desktop\Tasks\Net\[KH_ext_.Net_KhNURE_Sum19-NET]  Поденко МихаилTask № 3\Task3\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\Миша\Desktop\Tasks\Net\[KH_ext_.Net_KhNURE_Sum19-NET]  Поденко МихаилTask № 3\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Desktop\Tasks\Net\[KH_ext_.Net_KhNURE_Sum19-NET]  Поденко МихаилTask № 3\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\Миша\Desktop\Tasks\Net\[KH_ext_.Net_KhNURE_Sum19-NET]  Поденко МихаилTask № 3\Task3\Task3\obj\Debug\Task3.pdb
