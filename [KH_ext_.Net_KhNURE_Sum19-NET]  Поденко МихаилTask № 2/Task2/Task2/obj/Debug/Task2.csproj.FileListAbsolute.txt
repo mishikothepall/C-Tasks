@@ -1,0 +1,14 @@
+C:\Users\Миша\source\repos\Task2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\Миша\source\repos\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Миша\source\repos\Task2\Task2\bin\Debug\лер 747.exe.config
+C:\Users\Миша\source\repos\Task2\Task2\bin\Debug\лер 747.exe
+C:\Users\Миша\source\repos\Task2\Task2\bin\Debug\лер 747.pdb
+C:\Users\Миша\source\repos\Task2\Task2\obj\Debug\лер 747.exe
+C:\Users\Миша\source\repos\Task2\Task2\obj\Debug\лер 747.pdb
+C:\Users\Миша\Desktop\Tasks\Net\[KH_ext_.Net_KhNURE_Sum19-NET]  Поденко МихаилTask № 2\Task2\Task2\bin\Debug\лер 747.exe.config
+C:\Users\Миша\Desktop\Tasks\Net\[KH_ext_.Net_KhNURE_Sum19-NET]  Поденко МихаилTask № 2\Task2\Task2\bin\Debug\лер 747.exe
+C:\Users\Миша\Desktop\Tasks\Net\[KH_ext_.Net_KhNURE_Sum19-NET]  Поденко МихаилTask № 2\Task2\Task2\bin\Debug\лер 747.pdb
+C:\Users\Миша\Desktop\Tasks\Net\[KH_ext_.Net_KhNURE_Sum19-NET]  Поденко МихаилTask № 2\Task2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\Миша\Desktop\Tasks\Net\[KH_ext_.Net_KhNURE_Sum19-NET]  Поденко МихаилTask № 2\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Desktop\Tasks\Net\[KH_ext_.Net_KhNURE_Sum19-NET]  Поденко МихаилTask № 2\Task2\Task2\obj\Debug\лер 747.exe
+C:\Users\Миша\Desktop\Tasks\Net\[KH_ext_.Net_KhNURE_Sum19-NET]  Поденко МихаилTask № 2\Task2\Task2\obj\Debug\лер 747.pdb
